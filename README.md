@@ -7,6 +7,7 @@ The project is divided in two: analysis for short reads and long reads. Each of 
 Main directory
      *
      /
+     
      /---- Short reads
      /   /- 00. Raw reads
      /   /- 00. RefGenome
