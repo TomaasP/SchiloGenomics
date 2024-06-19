@@ -1,1 +1,4 @@
-
+for ID in $(cat ID.txt)
+do
+fastp -i ../00.RawReads/${ID}.R1.fastq.gz -o ./${ID}.R1.fastq.gz -I ../00.RawReads/${ID}.R2.fastq.gz -O ./${ID}.R2.fastq.gz -q 20
+done
