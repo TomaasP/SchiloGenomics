@@ -10,3 +10,5 @@ admixture -j5 --cv Suva_ldfilter.bed $k -s time > Suva.$k.rep${it}_log
 done
 done
 # multiple runs can be done by changing the rep{number} log file. 
+# CV error value were extracted from each log files and plotted on R.
+# Acnestry values were visualize following pong instrucctions.
