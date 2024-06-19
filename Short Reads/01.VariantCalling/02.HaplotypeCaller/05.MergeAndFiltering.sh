@@ -2,3 +2,5 @@
 # Then, a few filtering rounds needs to be done
 
 vcftools --vcf ./all_raw_variants.vcf --recode --recode-INFO-all --minQ 40 --min-meanDP 10 --max-missing 1 --max-alleles 2 --out ./variants.Q.DP.BiAl
+# stats can be obtain by using bcftools stats
+# bcftools stats  -s- variants.Q.DP.BiAl.recode.vcf 
