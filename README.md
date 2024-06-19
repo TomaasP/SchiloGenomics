@@ -5,13 +5,11 @@ Here there are all scripts used on the paper "An integrative taxonomy approach r
 The project is divided in two: analysis for short reads and long reads. Each of them has mulitple directories, for each subanalysis.
 
 Main directory
-     *
-     /
      
-     /---- Short reads
-     /   /- 00. Raw reads
-     /   /- 00. RefGenome
-     /   /- 01. Trimmed Reads
-     /   /- 02. Mapped Reads
-     /
-     /- Long Reads
+     |---- Short reads
+     |   |- 00. Raw reads
+     |   |- 00. RefGenome
+     |   |- 01. Trimmed Reads
+     |   |- 02. Mapped Reads
+     |
+     |- Long Reads
