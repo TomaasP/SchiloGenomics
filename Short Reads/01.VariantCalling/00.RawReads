@@ -1,1 +1,4 @@
-
+All reads must be in a specific format:
+pair end: {ID}.R1.fastq.gz
+          {ID}.R2.fastq.gz
+Single end: {ID}.fastq.gz
