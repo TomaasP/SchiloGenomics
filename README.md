@@ -7,10 +7,18 @@ The project is divided in two: analysis for short reads and long reads. Each of 
 Main directory
      
      |---- Short reads
-     |     |- VariantCalling
-     |          |- 00. Raw reads
-     |          |- 00. RefGenome
-     |          |- 01. Trimmed Reads
-     |          |- 02. Mapped Reads
-     |
+     |     |- 01.VariantCalling
+     |     |     |- 00. Raw reads
+     |     |     |- 00. Trimmed Reads
+     |     |     |- 01. Mapped Reads
+     |     |     |- 02. HaplotypeCaller
+     |     |     |- 03. PhylogenyTree
+     |     |
+     |     |- 02. AdmixtureAnalysis
+     |     |     |- admixture.sh
+     |     |     |-CVerrorPlot.R
+     |     |- 03. SmartPCA 
+     |     |     |- 01.DataPreparation.md
+     |     |     |- PCA.R
+     |     |- 04.PopulationGenomicsStats     
      |- Long Reads
