@@ -43,3 +43,5 @@ mv cp_* datos
 ```
 ./fs_4.1.1/fs_linux_glibc2.3 finestructure  -x 100000 -y 100000 -z 1000 output.chunkcounts.out out.mcmc.xml
 ```
+PLots were made by using the suggest R script 
+https://people.maths.bris.ac.uk/~madjl/finestructure/finestructureR.html
