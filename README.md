@@ -13,7 +13,6 @@ Main directory
      |     |     |- 01. Mapped Reads
      |     |     |- 02. HaplotypeCaller
      |     |     |- 03. PhylogenyTree
-     |     |
      |     |- 02. AdmixtureAnalysis
      |     |     |- admixture.sh
      |     |     |-CVerrorPlot.R
@@ -31,3 +30,8 @@ Main directory
      |     |-07.IntrogressionAnalysis
      |     |     |-DataProcessing.md
      |- Long Reads
+     |     |-01. SVs identification
+     |     |     |-01.Mum&Co.md
+     |     |-02. ANI     
+
+     
