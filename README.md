@@ -30,8 +30,7 @@ Main directory
      |     |-07.IntrogressionAnalysis
      |     |     |-DataProcessing.md
      |- Long Reads
-     |     |-01. SVs identification
-     |     |     |-01.Mum&Co.md
+     |     |-01.SVsIdentification.md
      |     |-02. ANI     
 
      
