@@ -20,5 +20,14 @@ Main directory
      |     |- 03. SmartPCA 
      |     |     |- 01.DataPreparation.md
      |     |     |- PCA.R
-     |     |- 04.PopulationGenomicsStats     
+     |     |- 04.PopulationGenomicsStats 
+     |     |     |-01.DataPreparationAndProcessing.md
+     |     |     |-PopGenomeAnalysis.R
+     |     |-05.FIneStructure
+     |     |     |-DataProcessing.md
+     |     |-06.ConsensusVCF
+     |     |     |-ANI.md
+     |     |     |-VcfConensus.md
+     |     |-07.IntrogressionAnalysis
+     |     |     |-DataProcessing.md
      |- Long Reads
